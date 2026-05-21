@@ -7,7 +7,7 @@ Microprocessor architecture, assembly/embedded programming, system design labs, 
 - AD3
 
 # Author
-Claresta Cheung | 2DX3 | [2nd Semester/Year 2]
+Claresta Cheung | 2DX3 | 2nd Semester/Year 2
 
 # Acknowledgments
 Shoutout to Professor Haddara, Professor Athar, and Professor Elamien for their dedication in teaching this course!
